@@ -44,7 +44,7 @@ it found there is vuln in:
 
 so we have to use python for open file root.txt
 
-python -c 'print(open("/root/root.txt").read())'
+	python -c 'print(open("/root/root.txt").read())'
 
 
  
